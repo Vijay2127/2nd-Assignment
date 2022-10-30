@@ -36,6 +36,11 @@
     margin-left: 25.5%;
     margin-right: 20%;
     text-align: center;
+    
+  }
+  .droptopic select option{
+    font-size:medium;
+
   }
   .options {
     height: 40px;
@@ -48,13 +53,10 @@
     margin-bottom: 25px;
     float: left;
     -webkit-appearance: none;
-    -moz-appearance: none;
     padding: 9px;
     
   }
-  
-  
-  .hotellocations {
+   .hotellocations {
     height: 40.5px;
     width: 338px;
     color: gray;
